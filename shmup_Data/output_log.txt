@@ -1,0 +1,73 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\SHMUP\shmup_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.416845 ms
+Cannot connect to destination host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+START GAME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.470070 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 403)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 486.
+Total: 0.371434 ms (FindLiveObjects: 0.018118 ms CreateObjectMapping: 0.013442 ms MarkObjects: 0.315324 ms  DeleteObjects: 0.024255 ms)
+
+pick'd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Add new weapon
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.922670 ms
+
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 6.227004 ms (FindLiveObjects: 0.066630 ms CreateObjectMapping: 0.061662 ms MarkObjects: 0.651690 ms  DeleteObjects: 5.445560 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.818850 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 0.553498 ms (FindLiveObjects: 0.044712 ms CreateObjectMapping: 0.044712 ms MarkObjects: 0.454722 ms  DeleteObjects: 0.008474 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.797809 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 0.557882 ms (FindLiveObjects: 0.046173 ms CreateObjectMapping: 0.045004 ms MarkObjects: 0.457936 ms  DeleteObjects: 0.008182 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 56c -> priority: 1 

@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 4be0f3cba619d2343a62228a581e24ad
+timeCreated: 1484128088
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spaceship_sprites_by_arboris_0
+    21300002: spaceship_sprites_by_arboris_1
+    21300004: spaceship_sprites_by_arboris_2
+    21300006: spaceship_sprites_by_arboris_3
+    21300008: spaceship_sprites_by_arboris_4
+    21300010: left1
+    21300012: idle1
+    21300014: right1
+    21300016: left2
+    21300018: idle2
+    21300020: right2
+    21300022: ammo1
+    21300024: spaceship_sprites_by_arboris_16
+    21300026: spaceship_sprites_by_arboris_17
+    21300028: spaceship_sprites_by_arboris_18
+    21300030: spaceship_sprites_by_arboris_19
+    21300032: spaceship_sprites_by_arboris_20
+    21300034: spaceship_sprites_by_arboris_21
+    21300036: spaceship_sprites_by_arboris_22
+    21300038: spaceship_sprites_by_arboris_23
+    21300040: spaceship_sprites_by_arboris_24
+    21300042: spaceship_sprites_by_arboris_25
+    21300044: spaceship_sprites_by_arboris_26
+    21300046: spaceship_sprites_by_arboris_27
+    21300048: spaceship_sprites_by_arboris_28
+    21300050: spaceship_sprites_by_arboris_29
+    21300052: spaceship_sprites_by_arboris_30
+    21300054: spaceship_sprites_by_arboris_31
+    21300056: spaceship_sprites_by_arboris_32
+    21300058: spaceship_sprites_by_arboris_33
+    21300060: spaceship_sprites_by_arboris_34
+    21300062: ammo5
+    21300064: spaceship_sprites_by_arboris_36
+    21300066: spaceship_sprites_by_arboris_37
+    21300068: ammo3
+    21300070: spaceship_sprites_by_arboris_39
+    21300072: spaceship_sprites_by_arboris_40
+    21300074: spaceship_sprites_by_arboris_41
+    21300076: spaceship_sprites_by_arboris_42
+    21300078: spaceship_sprites_by_arboris_43
+    21300080: eLeft
+    21300082: eIdle
+    21300084: eRight
+    21300086: spaceship_sprites_by_arboris_47
+    21300088: spaceship_sprites_by_arboris_48
+    21300090: spaceship_sprites_by_arboris_49
+    21300092: spaceship_sprites_by_arboris_50
+    21300094: spaceship_sprites_by_arboris_51
+    21300096: ammo2
+    21300098: ammo4
+    21300100: spaceship_sprites_by_arboris_6
+    21300102: spaceship_sprites_by_arboris_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 321
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 321
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 321
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 174
+        width: 57
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 51
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 274
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 275
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 274
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 231
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 230
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ammo1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 217
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 215
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 219
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 213
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 211
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 212
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 214
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 181
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 178
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 61
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ammo5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ammo3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 3
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 67
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eLeft
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eIdle
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 30
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eRight
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 26
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 45
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ammo2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 219
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ammo4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 70
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 68
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spaceship_sprites_by_arboris_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
